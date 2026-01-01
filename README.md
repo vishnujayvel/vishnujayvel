@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+the+connective+tissue+of+AI;Ex-Amazon+Alexa+Tech+Lead;Production-grade+MCP+servers;Demo-ware+is+easy.+Production+is+rare." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+production-grade+AI+infrastructure;Ex-Amazon+Alexa+Tech+Lead;MCP+servers+%7C+RAG+pipelines+%7C+Context+engineering;Seattle+%F0%9F%8C%B2" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,9 +18,9 @@
 
 ## About Me
 
-I build the **connective tissue of the Agentic Web**—secure, production-grade infrastructure that lets AI agents safely interact with real-world systems.
+I build **production-grade AI infrastructure**—secure systems that let AI agents safely interact with real-world APIs and data.
 
-The Model Context Protocol (MCP) ecosystem is in its "wild west" phase. Most implementations are demo-ware. I'm building **reference implementations** that show how it should be done.
+After 10+ years at Amazon building voice interfaces for Alexa, I'm now focused on the **Model Context Protocol (MCP)** ecosystem, creating reference implementations for agentic systems.
 
 ---
 
@@ -56,17 +56,13 @@ Event-driven community management with context engineering, semantic moderation,
 
 ---
 
-## Engineering Philosophy
+## Engineering Principles
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20market%20isn%27t%20looking%20for%20coders.%20It%27s%20starving%20for%20architects%20who%20can%20constrain%20AI%20to%20do%20useful%2C%20deterministic%20work.&author=My%20Philosophy" alt="Quote"/>
-</p>
-
-| Principle | Meaning |
-|:---------:|:--------|
+| Principle | What It Means |
+|:---------:|:--------------|
 | **ADRs over assumptions** | Document the "why", not just the "what" |
-| **Production over prototypes** | Anyone can wrap an API. Few can make it enterprise-ready |
-| **Context engineering** | Solving "Lost in the Middle" is the real LLM challenge |
+| **Production-ready first** | Build for enterprise deployment from day one |
+| **Context engineering** | Optimize how LLMs process and prioritize information |
 
 ---
 
@@ -105,9 +101,9 @@ Event-driven community management with context engineering, semantic moderation,
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f36,100:3b82f6&height=120&section=footer&fontSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f36,100:3b82f6&height=120&section=footer" width="100%"/>
 </p>
 
 <p align="center">
-  <i>"Demo-ware is easy. Production infrastructure is rare."</i>
+  <b>Let's build the future of AI infrastructure together.</b>
 </p>
