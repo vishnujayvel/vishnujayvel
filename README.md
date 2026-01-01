@@ -1,57 +1,112 @@
-# Hey, I'm Vishnu
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f36,100:3b82f6&height=200&section=header&text=Vishnu%20Jayavel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Agentic%20Architect&descSize=20&descAlignY=55" width="100%"/>
+</p>
 
-**Agentic Architect** | Ex-Amazon Alexa Tech Lead | Seattle
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+the+connective+tissue+of+AI;Ex-Amazon+Alexa+Tech+Lead;Production-grade+MCP+servers;Demo-ware+is+easy.+Production+is+rare." alt="Typing SVG" />
+  </a>
+</p>
 
-I build the connective tissue of the Agentic Web—secure, production-grade infrastructure that lets AI agents safely interact with real-world systems.
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishnujayavel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/vishnujayvel"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=vishnujayvel&style=for-the-badge&color=3b82f6" alt="Profile Views"/>
+</p>
+
+---
+
+## About Me
+
+I build the **connective tissue of the Agentic Web**—secure, production-grade infrastructure that lets AI agents safely interact with real-world systems.
+
+The Model Context Protocol (MCP) ecosystem is in its "wild west" phase. Most implementations are demo-ware. I'm building **reference implementations** that show how it should be done.
 
 ---
 
 ## What I'm Building
 
-The Model Context Protocol (MCP) ecosystem is in its "wild west" phase. Most implementations are demo-ware. I'm building **reference implementations** that show how it should be done:
+<table>
+<tr>
+<td width="50%">
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [splitwise-mcp](https://github.com/vishnujayvel/splitwise-mcp) | Financial reconciliation agent with duplicate prevention | ![Production Ready](https://img.shields.io/badge/Status-Production%20Ready-10b981) |
-| discord-mcp *(coming soon)* | Event-driven community management with context engineering | ![In Development](https://img.shields.io/badge/Status-In%20Development-f59e0b) |
+### [splitwise-mcp](https://github.com/vishnujayvel/splitwise-mcp)
+![Production Ready](https://img.shields.io/badge/Status-Production%20Ready-10b981?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Financial reconciliation agent with duplicate prevention, secure credential management, and deterministic math verification.
+
+</td>
+<td width="50%">
+
+### discord-mcp *(coming soon)*
+![In Development](https://img.shields.io/badge/Status-In%20Development-f59e0b?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+Event-driven community management with context engineering, semantic moderation, and PII masking.
+
+</td>
+</tr>
+</table>
 
 ## Recent Contributions
 
-- **[mcp-server-asana](https://github.com/roychri/mcp-server-asana)** — Contributed custom tool discovery patterns ([PR #32](https://github.com/roychri/mcp-server-asana/pull/32))
-- **[lazy-mcp](https://github.com/vishnujayvel/lazy-mcp)** — Exploring lazy-loading for reduced context usage
+- **[mcp-server-asana](https://github.com/roychri/mcp-server-asana)** — Custom tool discovery patterns ([PR #32](https://github.com/roychri/mcp-server-asana/pull/32))
+- **[lazy-mcp](https://github.com/vishnujayvel/lazy-mcp)** — Lazy-loading for reduced context usage
 
 ---
 
-## My Engineering Philosophy
+## Engineering Philosophy
 
-> *"The market isn't looking for coders—it's flooded with AI-generated code. It's starving for architects who can constrain, guide, and secure the probabilistic nature of AI to do useful, deterministic work."*
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20market%20isn%27t%20looking%20for%20coders.%20It%27s%20starving%20for%20architects%20who%20can%20constrain%20AI%20to%20do%20useful%2C%20deterministic%20work.&author=My%20Philosophy" alt="Quote"/>
+</p>
 
-**I believe in:**
-
-- **ADRs over assumptions** — Document the "why", not just the "what"
-- **Production over prototypes** — Anyone can wrap an API. Few can make it enterprise-ready
-- **Context engineering** — Solving "Lost in the Middle" is the real LLM orchestration challenge
+| Principle | Meaning |
+|:---------:|:--------|
+| **ADRs over assumptions** | Document the "why", not just the "what" |
+| **Production over prototypes** | Anyone can wrap an API. Few can make it enterprise-ready |
+| **Context engineering** | Solving "Lost in the Middle" is the real LLM challenge |
 
 ---
 
 ## Tech Stack
 
-```
-AI Orchestration    │  MCP · RAG Pipelines · Context Engineering · Vector DBs
-Backend             │  Python · TypeScript · Go · Java
-Infrastructure      │  AWS · Docker · Kubernetes · Event-Driven Systems
-Architecture        │  System Design · OAuth2 · Microservices · ADRs/RFCs
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,go,java,aws,docker,kubernetes,postgres,redis&theme=dark" alt="Tech Stack"/>
+</p>
+
+<details>
+<summary><b>Detailed Stack</b></summary>
+<br>
+
+| Domain | Technologies |
+|--------|-------------|
+| **AI Orchestration** | MCP, RAG Pipelines, Context Engineering, Vector DBs (Pinecone, FAISS) |
+| **Backend** | Python, TypeScript, Go, Java |
+| **Infrastructure** | AWS, Docker, Kubernetes, Event-Driven Systems |
+| **Architecture** | System Design, OAuth2, Microservices, ADRs/RFCs |
+
+</details>
 
 ---
 
-## Let's Connect
+## GitHub Stats
 
-Building something in the agentic space? Let's talk architecture patterns, security considerations, or the future of AI infrastructure.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnujayvel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnujayvel&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnujayavel/)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnujayvel&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f36,100:3b82f6&height=120&section=footer&fontSize=20" width="100%"/>
+</p>
 
 <p align="center">
   <i>"Demo-ware is easy. Production infrastructure is rare."</i>
