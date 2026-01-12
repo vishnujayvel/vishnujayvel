@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f36,100:3b82f6&height=200&section=header&text=Vishnu%20Jayavel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Agentic%20Architect&descSize=20&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f36,100:3b82f6&height=200&section=header&text=Vishnu%20Jayavel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Building+production-grade+AI+infrastructure;Ex-Amazon+Alexa+Tech+Lead;MCP+%C2%B7+RAG+Pipelines+%C2%B7+Context+Engineering;Seattle+%F0%9F%8C%B2" alt="Typing SVG" />
-  </a>
+  <em>On sabbatical after 10.5 years at Amazon. Exploring epistemology — what humans should know vs. what we delegate to AI.</em>
 </p>
 
 <p align="center">
@@ -16,94 +14,90 @@
 
 ---
 
-## About Me
+## The Question I'm Exploring
 
-I build **production-grade AI infrastructure**—secure systems that let AI agents safely interact with real-world APIs and data.
+Most AI tooling asks: *"How do we make AI do more?"*
 
-After 10+ years at Amazon building voice interfaces for Alexa, I'm now focused on the **Model Context Protocol (MCP)** ecosystem, creating reference implementations for agentic systems.
+I'm more interested in: *"What should humans still do — and why?"*
+
+This is applied epistemology. Not philosophy for its own sake, but building tools that make the human-AI boundary explicit and intentional.
 
 ---
 
-## What I'm Building
+## Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### [splitwise-mcp](https://github.com/vishnujayvel/splitwise-mcp)
-![Production Ready](https://img.shields.io/badge/Status-Production%20Ready-10b981?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### [mcp-lens](https://github.com/vishnujayvel/mcp-lens)
 
-Financial reconciliation agent with duplicate prevention, secure credential management, and deterministic math verification.
+Observability dashboard for Claude Code. Track MCP server utilization, health, and errors. Zero-daemon architecture with SQLite WAL.
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 </td>
 <td width="50%">
 
-### discord-mcp *(coming soon)*
-![In Development](https://img.shields.io/badge/Status-In%20Development-f59e0b?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+### [splitwise-mcp](https://github.com/vishnujayvel/splitwise-mcp)
 
-Event-driven community management with context engineering, semantic moderation, and PII masking.
+MCP server for Splitwise. Automates expense splitting with duplicate prevention and deterministic math verification.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-## Recent Contributions
+---
 
-- **[mcp-server-asana](https://github.com/roychri/mcp-server-asana)** — Custom tool discovery patterns ([PR #32](https://github.com/roychri/mcp-server-asana/pull/32))
-- **[lazy-mcp](https://github.com/vishnujayvel/lazy-mcp)** — Lazy-loading for reduced context usage
+## Contributions
+
+- **[lazy-mcp](https://github.com/voicetreelab/lazy-mcp)** — Lazy-loading for reduced context overhead
+- **[mcp-server-asana](https://github.com/roychri/mcp-server-asana)** — Custom tool discovery patterns
 
 ---
 
-## Engineering Principles
+## Background
 
-| Principle | What It Means |
-|:---------:|:--------------|
-| **ADRs over assumptions** | Document the "why", not just the "what" |
-| **Production-ready first** | Build for enterprise deployment from day one |
-| **Context engineering** | Optimize how LLMs process and prioritize information |
+**10.5 years at Amazon** — Tech Lead building voice interfaces, communication APIs, and enterprise integrations at scale. Learned how to ship reliable systems to millions of users.
+
+**Now**: Stepping back to think about where this is all going. Reading epistemology. Building tools. Figuring out what kind of work I want to do next.
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,go,java,aws,docker,kubernetes,postgres,redis&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=go,python,typescript,java,aws,docker,kubernetes,postgres,redis&theme=dark" alt="Tech Stack"/>
 </p>
 
 <details>
-<summary><b>Detailed Stack</b></summary>
+<summary><b>Areas of focus</b></summary>
 <br>
 
-| Domain | Technologies |
-|--------|-------------|
-| **AI Orchestration** | MCP, RAG Pipelines, Context Engineering, Vector DBs (Pinecone, FAISS) |
-| **Backend** | Python, TypeScript, Go, Java |
-| **Infrastructure** | AWS, Docker, Kubernetes, Event-Driven Systems |
-| **Architecture** | System Design, OAuth2, Microservices, ADRs/RFCs |
+| Domain | Experience |
+|--------|------------|
+| **AI Systems** | LLM orchestration, agentic frameworks, RAG pipelines, context engineering |
+| **Backend** | Go, Python, TypeScript, Java |
+| **Infrastructure** | AWS, distributed systems, event-driven architecture |
 
 </details>
 
 ---
 
-## GitHub Stats
+## Currently
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnujayvel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnujayvel&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnujayvel&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
-</p>
+- Reading philosophy of mind and epistemology
+- Building tools for agentic coding workflows
+- Interviewing for Staff+ roles in AI infrastructure and developer experience
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f36,100:3b82f6&height=120&section=footer" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnujayvel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 </p>
 
 <p align="center">
-  <b>Let's build the future of AI infrastructure together.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f36,100:3b82f6&height=120&section=footer" width="100%"/>
 </p>
