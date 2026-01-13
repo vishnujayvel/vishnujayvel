@@ -47,6 +47,21 @@ MCP server for Splitwise. Automates expense splitting with duplicate prevention 
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### [flashcard-skill](https://github.com/vishnujayvel/flashcard-skill)
+
+Claude Code skill that transforms tutorials into interview-ready flashcards. Quizlet-compatible output with reasoning-focused Q&A.
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-Skill-blue?style=flat-square)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
 </table>
 
 ---
