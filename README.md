@@ -60,6 +60,13 @@ Claude Code skill that transforms tutorials into interview-ready flashcards. Qui
 </td>
 <td width="50%">
 
+### [designing-your-life-spec](https://github.com/vishnujayvel/designing-your-life-spec)
+
+OpenAPI 3.1 specification for "Designing Your Life" methodology. AI-first life coaching framework with 13 entities, 6 rule sets, and prompt-aware extensions.
+
+![OpenAPI](https://img.shields.io/badge/OpenAPI-3.1-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+
 </td>
 </tr>
 </table>
