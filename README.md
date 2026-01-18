@@ -75,6 +75,7 @@ OpenAPI 3.1 specification for "Designing Your Life" methodology. AI-first life c
 
 ## Contributions
 
+- **[google-calendar-mcp#157](https://github.com/nspady/google-calendar-mcp/pull/157)** — Day-of-week fields to fix LLM date hallucinations
 - **[lazy-mcp](https://github.com/voicetreelab/lazy-mcp)** — Lazy-loading for reduced context overhead
 - **[mcp-server-asana](https://github.com/roychri/mcp-server-asana)** — Custom tool discovery patterns
 
