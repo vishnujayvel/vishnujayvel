@@ -30,6 +30,16 @@ This is applied epistemology. Not philosophy for its own sake, but building tool
 <tr>
 <td width="50%">
 
+### 🆕 [transcription-analyzer](https://github.com/vishnujayvel/transcription-analyzer)
+
+Multi-agent mock interview transcript analyzer with anti-hallucination protocol. 4 parallel agents (Strengths, Mistakes, Behavioral, Factual) produce confidence-scored insights across 10 categories.
+
+[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Compatible-blue?style=flat-square)](https://agentskills.io)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+</td>
+<td width="50%">
+
 ### [mcp-lens](https://github.com/vishnujayvel/mcp-lens)
 
 Observability dashboard for Claude Code. Track MCP server utilization, health, and errors. Zero-daemon architecture with SQLite WAL.
@@ -37,6 +47,8 @@ Observability dashboard for Claude Code. Track MCP server utilization, health, a
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [splitwise-mcp](https://github.com/vishnujayvel/splitwise-mcp)
@@ -46,8 +58,6 @@ MCP server for Splitwise. Automates expense splitting with duplicate prevention 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### [flashcard-skill](https://github.com/vishnujayvel/flashcard-skill)
@@ -58,7 +68,9 @@ Claude Code skill that transforms tutorials into interview-ready flashcards. Qui
 ![Claude](https://img.shields.io/badge/Claude_Code-Skill-blue?style=flat-square)
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" colspan="2">
 
 ### [designing-your-life-spec](https://github.com/vishnujayvel/designing-your-life-spec)
 
