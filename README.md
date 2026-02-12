@@ -26,6 +26,12 @@ This is applied epistemology. Not philosophy for its own sake, but building tool
 
 ## Projects
 
+### [sdlc-autopilot](https://github.com/vishnujayvel/sdlc-autopilot)
+
+Autonomous spec-driven development orchestrator for Claude Code. One word (`SDLC`) triggers the full lifecycle — requirements, design, tasks, implementation — with dual-critic validation (Advocate/Skeptic) and intelligent task batching. Built on a neuroscience insight: the agent that writes code should never review it.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-cc785c?style=flat-square)
+
 <table>
 <tr>
 <td width="50%">
@@ -123,8 +129,8 @@ OpenAPI 3.1 specification for "Designing Your Life" methodology. AI-first life c
 
 ## Currently
 
-- Reading philosophy of mind and epistemology
-- Building tools for agentic coding workflows
+- Building [sdlc-autopilot](https://github.com/vishnujayvel/sdlc-autopilot) — autonomous multi-agent development orchestration
+- Building tools for agentic coding workflows (MCP servers, guardrails, eval frameworks)
 - Interviewing for Staff+ roles in AI infrastructure and developer experience
 
 ---
