@@ -26,17 +26,32 @@ This is applied epistemology. Not philosophy for its own sake, but building tool
 
 ## Projects
 
-### [sdlc-autopilot](https://github.com/vishnujayvel/sdlc-autopilot)
+### [pdlc-autopilot](https://github.com/vishnujayvel/pdlc-autopilot)
 
 Autonomous spec-driven development orchestrator for Claude Code. One word (`SDLC`) triggers the full lifecycle — requirements, design, tasks, implementation — with dual-critic validation (Advocate/Skeptic) and intelligent task batching. Built on a neuroscience insight: the agent that writes code should never review it.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-cc785c?style=flat-square)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-cc785c?style=flat-square) ![Stars](https://img.shields.io/github/stars/vishnujayvel/pdlc-autopilot?style=flat-square)
+
+### [hookwise](https://github.com/vishnujayvel/hookwise)
+
+Config-driven hook framework for Claude Code. Guard rails, coaching, analytics, and an interactive TUI — all from one YAML file. 1,300+ tests, 12 built-in recipes, daemon feed platform with 5 producers and 19 status line segments.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![npm](https://img.shields.io/npm/v/hookwise?style=flat-square) ![Tests](https://img.shields.io/badge/tests-1363_passing-brightgreen?style=flat-square)
 
 <table>
 <tr>
 <td width="50%">
 
-### 🆕 [transcription-analyzer](https://github.com/vishnujayvel/transcription-analyzer)
+### 🆕 [practice-tracker](https://github.com/vishnujayvel/practice-tracker)
+
+MCP server for spaced repetition practice tracking. 13 tools for mastery evidence, gotcha patterns, study plans, and rep logging. Built on proven interval scheduling with intelligent review surfacing.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tests](https://img.shields.io/badge/tests-620_passing-brightgreen?style=flat-square)
+
+</td>
+<td width="50%">
+
+### [transcription-analyzer](https://github.com/vishnujayvel/transcription-analyzer)
 
 Multi-agent mock interview transcript analyzer with anti-hallucination protocol. 4 parallel agents (Strengths, Mistakes, Behavioral, Factual) produce confidence-scored insights across 10 categories.
 
@@ -44,6 +59,8 @@ Multi-agent mock interview transcript analyzer with anti-hallucination protocol.
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [mcp-lens](https://github.com/vishnujayvel/mcp-lens)
@@ -53,8 +70,6 @@ Observability dashboard for Claude Code. Track MCP server utilization, health, a
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### [splitwise-mcp](https://github.com/vishnujayvel/splitwise-mcp)
@@ -64,6 +79,8 @@ MCP server for Splitwise. Automates expense splitting with duplicate prevention 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [flashcard-skill](https://github.com/vishnujayvel/flashcard-skill)
@@ -74,9 +91,7 @@ Claude Code skill that transforms tutorials into interview-ready flashcards. Qui
 ![Claude](https://img.shields.io/badge/Claude_Code-Skill-blue?style=flat-square)
 
 </td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
+<td width="50%">
 
 ### [designing-your-life-spec](https://github.com/vishnujayvel/designing-your-life-spec)
 
@@ -129,8 +144,9 @@ OpenAPI 3.1 specification for "Designing Your Life" methodology. AI-first life c
 
 ## Currently
 
-- Building [sdlc-autopilot](https://github.com/vishnujayvel/sdlc-autopilot) — autonomous multi-agent development orchestration
-- Building tools for agentic coding workflows (MCP servers, guardrails, eval frameworks)
+- Building [pdlc-autopilot](https://github.com/vishnujayvel/pdlc-autopilot) — autonomous multi-agent development orchestration
+- Building [hookwise](https://github.com/vishnujayvel/hookwise) — config-driven guardrails and coaching for agentic coding
+- Building tools for agentic coding workflows (MCP servers, eval frameworks, spaced repetition)
 - Interviewing for Staff+ roles in AI infrastructure and developer experience
 
 ---
