@@ -27,11 +27,32 @@ On sabbatical now. Building AI tools and using them every day.
 
 ## AI for Life
 
+### [pdlc-autopilot](https://github.com/vishnujayvel/pdlc-autopilot)
+
+Autonomous spec-driven development orchestrator for Claude Code. One word (`SDLC`) triggers the full lifecycle — requirements, design, tasks, implementation — with dual-critic validation (Advocate/Skeptic) and intelligent task batching. Built on a neuroscience insight: the agent that writes code should never review it.
+
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-cc785c?style=flat-square) ![Stars](https://img.shields.io/github/stars/vishnujayvel/pdlc-autopilot?style=flat-square)
+
+### [hookwise](https://github.com/vishnujayvel/hookwise)
+
+Config-driven hook framework for Claude Code. Guard rails, coaching, analytics, and an interactive TUI — all from one YAML file. 1,300+ tests, 12 built-in recipes, daemon feed platform with 5 producers and 19 status line segments.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![npm](https://img.shields.io/npm/v/hookwise?style=flat-square) ![Tests](https://img.shields.io/badge/tests-1363_passing-brightgreen?style=flat-square)
+
 <table>
 <tr>
 <td width="33%">
 
-### [showtime](https://github.com/vishnujayvel/showtime)
+### 🆕 [practice-tracker](https://github.com/vishnujayvel/practice-tracker)
+
+MCP server for spaced repetition practice tracking. 13 tools for mastery evidence, gotcha patterns, study plans, and rep logging. Built on proven interval scheduling with intelligent review surfacing.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tests](https://img.shields.io/badge/tests-620_passing-brightgreen?style=flat-square)
+
+</td>
+<td width="50%">
+
+### [transcription-analyzer](https://github.com/vishnujayvel/transcription-analyzer)
 
 ADHD-friendly day planner with gamification. Acts, beats, standing ovations.
 
@@ -39,7 +60,39 @@ ADHD-friendly day planner with gamification. Acts, beats, standing ovations.
 `Desktop App`
 
 </td>
-<td width="33%">
+</tr>
+<tr>
+<td width="50%">
+
+### [mcp-lens](https://github.com/vishnujayvel/mcp-lens)
+
+Observability dashboard for Claude Code. Track MCP server utilization, health, and errors. Zero-daemon architecture with SQLite WAL.
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+</td>
+<td width="50%">
+
+### [splitwise-mcp](https://github.com/vishnujayvel/splitwise-mcp)
+
+MCP server for Splitwise. Automates expense splitting with duplicate prevention and deterministic math verification.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [flashcard-skill](https://github.com/vishnujayvel/flashcard-skill)
+
+Claude Code skill that transforms tutorials into interview-ready flashcards. Quizlet-compatible output with reasoning-focused Q&A.
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-Skill-blue?style=flat-square)
+
+</td>
+<td width="50%">
 
 ### [designing-your-life-spec](https://github.com/vishnujayvel/designing-your-life-spec)
 
@@ -212,6 +265,27 @@ MCP servers, Claude Code skills, observability dashboards. All open source.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,typescript,java,aws,docker,kubernetes,postgres,redis&theme=dark" alt="Tech Stack"/>
 </p>
+
+<details>
+<summary><b>Areas of focus</b></summary>
+<br>
+
+| Domain | Experience |
+|--------|------------|
+| **AI Systems** | LLM orchestration, agentic frameworks, RAG pipelines, context engineering |
+| **Backend** | Go, Python, TypeScript, Java |
+| **Infrastructure** | AWS, distributed systems, event-driven architecture |
+
+</details>
+
+---
+
+## Currently
+
+- Building [pdlc-autopilot](https://github.com/vishnujayvel/pdlc-autopilot) — autonomous multi-agent development orchestration
+- Building [hookwise](https://github.com/vishnujayvel/hookwise) — config-driven guardrails and coaching for agentic coding
+- Building tools for agentic coding workflows (MCP servers, eval frameworks, spaced repetition)
+- Interviewing for Staff+ roles in AI infrastructure and developer experience
 
 ---
 
