@@ -26,7 +26,7 @@ On sabbatical now. Building AI tools and using them every day.
 ---
 
 <p align="center">
-  <img src="./orchestration.svg" alt="Agent Orchestration Pattern" width="100%"/>
+  <img src="./the-swarm.svg" alt="Parallel Wave Execution" width="100%"/>
 </p>
 
 ---
