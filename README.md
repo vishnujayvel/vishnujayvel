@@ -27,6 +27,8 @@ On sabbatical now. Building AI tools and using them every day.
 
 <p align="center">
   <img src="./the-swarm.svg" alt="Parallel Wave Execution" width="100%"/>
+  <br>
+  <em>My AI-native software development workflow</em>
 </p>
 
 ---
@@ -91,7 +93,17 @@ Transforms tutorials into interview-ready flashcards. Quizlet-compatible output 
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
+
+### [wishloop](https://github.com/vishnujayvel/wishloop)
+
+Universal SDLC orchestrator. Spec it, execute via Loki Mode, monitor with a gardening agent, capture learnings, verify, file bugs, loop until clean.
+
+![Shell](https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnubash&logoColor=white)
+`Orchestrator`
+
+</td>
+<td width="50%">
 
 ### [hookwise](https://github.com/vishnujayvel/hookwise)
 
@@ -101,7 +113,9 @@ Config-driven hook framework for Claude Code. Guards, analytics, coaching, and T
 `CLI`
 
 </td>
-<td width="33%">
+</tr>
+<tr>
+<td width="50%">
 
 ### [pdlc-autopilot](https://github.com/vishnujayvel/pdlc-autopilot)
 
@@ -111,7 +125,7 @@ Autonomous spec-driven development. Director/Actor/Critic with dual validation.
 `Framework`
 
 </td>
-<td width="33%">
+<td width="50%">
 
 ### [mcp-lens](https://github.com/vishnujayvel/mcp-lens)
 
