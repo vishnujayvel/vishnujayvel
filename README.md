@@ -101,7 +101,7 @@ Transforms tutorials into interview-ready flashcards. Quizlet-compatible output 
 
 ### [wishloop](https://github.com/vishnujayvel/wishloop)
 
-Universal SDLC orchestrator. Spec it, execute via Loki Mode, monitor with a gardening agent, capture learnings, verify, file bugs, loop until clean.
+Autonomous agent orchestrator. Spec it, execute via parallel agents, monitor with a gardening agent, capture learnings, verify, file bugs, loop until clean.
 
 ![Shell](https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnubash&logoColor=white)
 `Orchestrator`
