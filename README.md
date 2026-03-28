@@ -25,6 +25,12 @@ On sabbatical now. Building AI tools and using them every day.
 
 ---
 
+<p align="center">
+  <img src="./orchestration.svg" alt="Agent Orchestration Pattern" width="100%"/>
+</p>
+
+---
+
 ## AI for Life
 
 <table>
