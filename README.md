@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7EE787&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%3E+my+agents+have+agents;%3E+I+think+in+agents+and+ship+in+MCP+servers;%3E+I+learn+by+shipping" alt="Typing SVG"/></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7EE787&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%3E+my+agents+have+agents;%3E+I+learn+by+shipping" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
