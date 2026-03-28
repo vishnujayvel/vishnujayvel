@@ -31,6 +31,10 @@ On sabbatical now. Building AI tools and using them every day.
   <em>My AI-native software development workflow</em>
 </p>
 
+<p align="center">
+  <img src="./rarv.svg" alt="RARV Agent Inner Loop" width="100%"/>
+</p>
+
 ---
 
 ## AI for Life
